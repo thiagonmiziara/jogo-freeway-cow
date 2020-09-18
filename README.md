@@ -2,7 +2,7 @@
 
 
 ## Atravesse a vaca para o outro lado da rua e marque um ponto.
-    Utilize as setar para cima e para baixo do seu teclado.
+    Utilize as setas para cima e para baixo do seu teclado.
     
 Criado no p5.js Web Editor!
 ## link do jogo!
